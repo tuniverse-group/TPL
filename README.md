@@ -17,5 +17,6 @@
 - <a href="https://facebook.com/groups/group.tpl" target="_blank">Facebook Group</a>
 - <a href="https://instagram.com/tpl.tn" target="_blank">Instagram</a>
 
-<i>If you want you have some SUGGESTIONS. Share them with US in the Pull Requests.</i> 
+<i>If you want you have some SUGGESTIONS. Share them with US in the Pull Requests.</i>
+<p>Also if you want to JOIN US as a CONTENT CREATOR, you can contact us on Facebook.</p>
 
