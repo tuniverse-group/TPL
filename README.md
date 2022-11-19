@@ -10,7 +10,6 @@
   <li> <b><i> Regional Groups </i></b> </li>
 </ul>
 <br>
-
 ## Our Social Media Presence
 - <a href="https://facebook.com/tpl.tn" target="_blank">Facebook Page</a>
 - <a href="https://facebook.com/groups/group.tpl" target="_blank">Facebook Group</a>
