@@ -1,4 +1,4 @@
-<2 align="center"><b>TPL</b></2>
+<h2 align="center"><b>TPL</b></h2>
 <div style="text-align:center"><img src="TPL LOGO ROUND.png" width="200" height="200" class="center"></div>
 
 
