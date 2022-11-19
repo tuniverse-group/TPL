@@ -9,8 +9,7 @@
   <li> <a href="https://linktr.ee/tpl_clubs" target="_blank">TPL Clubs</a></li>
   <li> <b><i> Regional Groups </i></b> </li>
 </ul>
-
-<br><br>
+<br>
 
 ## Our Social Media Presence
 - <a href="https://facebook.com/tpl.tn" target="_blank">Facebook Page</a>
