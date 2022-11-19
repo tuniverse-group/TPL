@@ -7,5 +7,5 @@
 <ul>
   <li> <a href="https://linktr.ee/tpl.tn" target="_blank">Our Social Media Presence.</a> </li> 
   <li> <a href="https://linktr.ee/tpl_clubs" target="_blank">TPL Clubs</a></li>
-  <li> <i> Regional Groups </i> </li>
+  <li> <b><i> Regional Groups </i></b> </li>
 </ul>
